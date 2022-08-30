@@ -1,2 +1,3 @@
-# Research dropout out TEM
-Educational data science: A case study on dropout in university of México
+# Sentiment analysis (or opinion mining) 
+- Is a natural language processing (NLP) technique used to determine whether data is positive, negative or neutral. 
+- Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.
